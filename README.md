@@ -2,7 +2,7 @@
 
 - Introductions
 - Stay up to date on assignments
-  #Stay up to date
+- #Stay up to date
 
 - Syllabus Overview and Questions
 	
